@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ussd_read</string>
+    <string name="send">Send</string>
+    <string name="code_ussd">Entrer un code ussd</string>
+</resources>
